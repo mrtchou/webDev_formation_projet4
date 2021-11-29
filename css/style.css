@@ -122,7 +122,11 @@ h4{color:#333!important}
 .portfolio-row{margin-bottom:44px;margin-top:50px}
 .portfolio-row{width:fit-content;height:auto}
 .avatar{box-shadow:0 4px 9px rgba(0,0,0,0.3)}
-.black-background{background-color:rgba(165,147,99,0.7);padding:40px}
+
+.black-background {
+    background-color: #337ab7;
+    padding: 40px;
+}
 .bold-link{font-weight:900;text-decoration:underline!important}
 .bgc-white{background-color:#FFF}
 .bgc-dark-slate-blue{background-color:#364577}
